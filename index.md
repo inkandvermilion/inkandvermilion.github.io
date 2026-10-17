@@ -68,3 +68,7 @@ Refunds for App Store purchases are handled by Apple. Please request one at [rep
 Restore your new iPhone from a backup (iCloud or a computer), and your record comes along.
 
 - [Privacy Policy](privacy/)
+
+---
+
+<small><a href="legal/">特定商取引法に基づく表記</a></small>
